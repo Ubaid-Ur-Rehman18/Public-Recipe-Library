@@ -1,0 +1,201 @@
+[
+    {
+        "title": "Rainbow Quinoa Salad",
+        "category": "Salads",
+        "ingredients": [
+            "uinoa",
+            "cherry tomatoes",
+            "cucumber",
+            "red bell pepper",
+            "yellow corn",
+            "lemon juice",
+            "olive oil",
+            "salt",
+            "black pepper",
+            "fresh parsley"
+        ],
+        "steps": "Cook quinoa and let it cool.\n\nChop all veggies finely.\n\nMix quinoa, veggies, corn, and chopped parsley.\n\nAdd olive oil, lemon juice, salt, and pepper.\n\nToss well and serve chilled.\n\n",
+        "image": "images/Rainbow Quinoa Salad.jpg"
+    },
+    {
+        "title": " Creamy Vegan Tomato Soup",
+        "category": "Soups",
+        "ingredients": [
+            "tomatoes",
+            "coconut milk",
+            "garlic",
+            "onion",
+            "basil leaves",
+            "olive oil",
+            "salt",
+            "black pepper"
+        ],
+        "steps": "Roast tomatoes, garlic, and onion in olive oil.\n\nBlend everything with coconut milk and basil.\n\nSimmer for 10 mins, season, and serve hot.",
+        "image": "images/Creamy Vegan Tomato Soup.jpg"
+    },
+    {
+        "title": "Avocado Toast Deluxe",
+        "category": "Breakfast",
+        "ingredients": [
+            "multigrain bread",
+            "avocado",
+            "cherry tomatoes",
+            "lemon juice",
+            "chili flakes",
+            "salt",
+            "black pepper",
+            "microgreens"
+        ],
+        "steps": "Toast the bread.\n\nSmash avocado with lemon juice, salt, and pepper.\n\nSpread on toast and top with tomatoes, chili flakes, and microgreens.\n\n",
+        "image": "images/Avocado Toast Deluxe.jpg"
+    },
+    {
+        "title": "Green Goddess Vegan Pasta",
+        "category": "Pasta",
+        "ingredients": [
+            "whole wheat pasta",
+            "spinach",
+            "avocado",
+            "garlic",
+            "olive oil",
+            "lemon juice",
+            "basil",
+            "nutritional yeast"
+        ],
+        "steps": "Cook pasta and set aside.\n\nBlend spinach, avocado, garlic, lemon juice, basil, and olive oil.\n\nMix the sauce with warm pasta. Top with nutritional yeast.\n\n",
+        "image": "images/Green Goddess Vegan Pasta.jpg"
+    },
+    {
+        "title": "Baked Sweet Potato Chips",
+        "category": "Snacks",
+        "ingredients": [
+            "sweet potatoes",
+            "olive oil",
+            "sea salt",
+            "paprika",
+            "garlic powder"
+        ],
+        "steps": "Slice sweet potatoes thin.\n\nToss with olive oil and spices.\n\nBake at 180\u00b0C for 20-25 mins till crispy.\n\n",
+        "image": "images/Baked Sweet Potato Chips.jpg"
+    },
+    {
+        "title": "Coconut Veggie Rice",
+        "category": "Rice",
+        "ingredients": [
+            "rice",
+            "coconut milk",
+            "peas",
+            "carrots",
+            "green beans",
+            "curry leaves",
+            "mustard seeds",
+            "salt"
+        ],
+        "steps": "Cook veggies with mustard seeds and curry leaves.\n\nAdd rice and coconut milk.\n\nCook till fluffy and fragrant.",
+        "image": "images/Coconut Veggie Rice.jpg"
+    },
+    {
+        "title": "Chickpea Avocado Salad",
+        "category": "Salads",
+        "ingredients": [
+            "chickpeas",
+            "avocado",
+            "cherry tomatoes",
+            "red onion",
+            "lemon juice",
+            "olive oil",
+            "black pepper",
+            "salt"
+        ],
+        "steps": "Rinse chickpeas and chop avocado and veggies.\n\nMix all ingredients in a bowl.\n\nDrizzle with lemon juice and olive oil. Serve chilled.\n\n",
+        "image": "images/Chickpea Avocado Salad.jpg"
+    },
+    {
+        "title": "Spicy Lentil Carrot Soup",
+        "category": "Soups",
+        "ingredients": [
+            "red lentils",
+            "carrots",
+            "garlic",
+            "onion",
+            "ginger",
+            "cumin",
+            "turmeric",
+            "vegetable broth"
+        ],
+        "steps": "Saut\u00e9 onion, garlic, and ginger.\n\nAdd carrots, lentils, and spices.\n\nPour broth and cook till soft. Blend and serve.\n\n",
+        "image": "images/Spicy Lentil Carrot Soup.jpg"
+    },
+    {
+        "title": "Tofu Scramble Breakfast Bowl",
+        "category": "Breakfast",
+        "ingredients": [
+            "firm tofu",
+            "turmeric",
+            "onion",
+            "spinach",
+            "bell pepper",
+            "olive oil",
+            "salt",
+            "pepper"
+        ],
+        "steps": "Crumble tofu and cook with olive oil and turmeric.\n\nAdd chopped veggies.\n\nCook until soft. Serve hot",
+        "image": "images/Tofu Scramble Breakfast Bowl.jpg"
+    },
+    {
+        "title": "Roasted Chickpea Snack Bites",
+        "category": "Snacks",
+        "ingredients": [
+            "chickpeas",
+            "olive oil",
+            "paprika",
+            "cumin",
+            "garlic powder",
+            "sea salt"
+        ],
+        "steps": "Dry roast chickpeas.\n\nMix with oil and spices.\n\nBake at 200\u00b0C for 25 minutes.",
+        "image": "images/Roasted Chickpea Snack Bites.jpg"
+    },
+    {
+        "title": "Mushroom Spinach Brown Rice",
+        "category": "Rice",
+        "ingredients": [
+            "brown rice",
+            "mushrooms",
+            "spinach",
+            "garlic",
+            "olive oil",
+            "soy sauce"
+        ],
+        "steps": "Cook brown rice.\n\nSaut\u00e9 garlic, mushrooms, and spinach.\n\nAdd cooked rice and soy sauce, stir well.\n\n",
+        "image": "images/Mushroom Spinach Brown Rice.jpg"
+    },
+    {
+        "title": "Grilled Eggplant Rolls",
+        "category": "Grilled",
+        "ingredients": [
+            "eggplant slices",
+            "hummus",
+            "bell pepper",
+            "spinach",
+            "olive oil"
+        ],
+        "steps": "Grill eggplant slices.\n\nSpread hummus, fill with spinach & pepper.\n\nRoll and grill again for 2 mins.",
+        "image": "images/Grilled Eggplant Rolls.jpg"
+    },
+    {
+        "title": "Vegan Chocolate Beet Brownies",
+        "category": "Baked",
+        "ingredients": [
+            "beet puree",
+            "cocoa powder",
+            "flour",
+            "maple syrup",
+            "baking soda",
+            "almond milk",
+            "coconut oil"
+        ],
+        "steps": "Mix wet and dry ingredients.\n\nFold into a batter.\n\nBake at 180\u00b0C for 25-30 mins.",
+        "image": "images/Vegan Chocolate Beet Brownies.jpg"
+    }
+]
